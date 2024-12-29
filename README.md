@@ -2,6 +2,7 @@
 Python library used and complemented by GisSense  
 Maintained by GisSense  
 https://www.gissense.com  
+https://pypi.org/project/gisboys-library/
 
 
 # LogHelper
